@@ -1,0 +1,180 @@
+body {
+    margin: 0px;
+    margin-top: 0%;
+    padding: 0%;
+    /* border: 1px solid red; */
+    /* background-color: black;    */
+}
+
+
+.hero-image {
+    background-image:  url(../Images/theater-image-background.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    /* position: relative; */
+    /* background-position: 50% 55%; */
+    margin-top:3%;
+}
+
+.hero-text {
+    font-size: 100px;
+        color: white;
+        text-align: center;
+        position: relative;
+        top: 39%;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        /* transform: translate(-50%, -50% */
+}
+.bckg {
+    background-color: black;
+    height: ;
+}
+
+#GT {
+    font-size: x-large;
+    margin-left: 90px;
+    margin-right: 160px;
+    display: inline;
+    text-decoration: none;
+    color: white;
+}
+
+#navli {
+    /* display: block; */
+    color: white;
+    text-align: right;
+    padding: 0px 29px;
+    /* text-decoration: none; */
+    list-style-type: none;
+    float: right;
+    margin: 0%;
+
+}
+
+.flex-container {
+    display: flex;
+    color: white;
+    /* text-decoration: none; */
+    margin-top: 0%;
+    justify-content: space-between;
+    max-width: max-content;
+    padding-top: 2%;
+    
+}
+
+#navul {
+    /* list-style-type: none; */
+    /* margin: 0; */
+    padding: 0;
+    /* max-width: 400px; */
+    /* max-height: 50px; */
+    
+}
+
+main {
+    align-items: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex: wrap;
+    /* border: 2px solid red; */
+    /* margin-top: -0%; */
+}
+
+.monthcard {
+    width: 500px;
+    height: 7%;
+    border: 2px solid black;
+    margin-top: 3%;
+}
+
+
+.prof-info>h1 {
+    align-self: center;
+    padding-top: 1%;
+}
+
+.prof-pic {
+    grid-area: prof-pic;
+    display: flex;
+    align-items: center;
+}
+
+#Pic {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border: 2px dashed lightblue;
+    outline: auto white;
+    margin-left: 22px;
+    justify-content: left
+    /* border-radius: 3px; */
+}
+
+.posts {
+    width: ;
+}
+
+.contact {
+    margin-bottom: 2%;
+    /* text-align: center; */
+}
+
+.post-card {
+    border: 2px solid gray;
+    padding: em;
+    margin-top: 10%;
+    border-radius: 3px;
+    width: 760px;
+    margin-bottom: 4%;
+    height: px;
+    font-size: large;
+    font-weight: 600;
+    
+}
+
+.card-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-links>a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 3px;
+
+}
+
+.card-links>a:hover {
+    text-decoration: underline;
+    background-color: white;
+    color: lightblue;
+    border-color: lightblue;
+}
+
+hr {
+    height: 4px;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    height: 400px;
+    color: white;
+    /* border: 1px solid red; */
+}
+
+
+
+
+#Ftli1 {
+    font-size: xx-large;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
