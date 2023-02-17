@@ -28,7 +28,7 @@ body {
         /* transform: translate(-50%, -50% */
 }
 .bckg {
-    background-color: black;
+    background-color:black;
     height: ;
 }
 
@@ -178,3 +178,17 @@ footer {
     margin-bottom: 10px;
 }
 
+.icons {
+    height: 13px;
+    width: 15px;
+}
+
+.icons2 {
+    height: 29px;
+    width: 19px;
+}
+
+.chitown {
+    height: 100px;
+    width: 300px;
+}
